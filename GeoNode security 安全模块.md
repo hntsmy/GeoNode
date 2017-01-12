@@ -3,7 +3,7 @@
 
 GeoNode权限管理主要针对用户和文件两部分构成，具体如下图所示：
 
-![GeoNode权限控制](http://oh6j8wijn.bkt.clouddn.com/05C98E89-D2AA-4481-AC34-36725ADFC16D.png)
+![GeoNode权限控制](http://oh6j8wijn.bkt.clouddn.com/QQ20170112-185831.png)
 
 # resource_permissions
 
