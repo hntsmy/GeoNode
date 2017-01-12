@@ -3,7 +3,7 @@
 
 GeoNode权限管理主要针对用户和文件两部分构成，具体如下图所示：
 
-[GeoNode权限控制](http://oh6j8wijn.bkt.clouddn.com/05C98E89-D2AA-4481-AC34-36725ADFC16D.png)
+![GeoNode权限控制](http://oh6j8wijn.bkt.clouddn.com/05C98E89-D2AA-4481-AC34-36725ADFC16D.png)
 
 # resource_permissions
 
@@ -13,7 +13,9 @@ http请求方式：GET/POST
 
 参数说明：
 | 参数名称 | 参数说明 | 长度要求 | 是否必须 |
+
 | --- | --- | --- | --- | --- |
+
 | resource_id | 资源id编号 |   | Y |
 
 正常：
